@@ -32,3 +32,8 @@ hub serve
 
 This will start a webserver on port 8000. It will automatically rebuild the
 website when you change a file.
+
+## Roadmap
+
+- [ ] Add HTML head
+- [ ] Add HTML header and footer
